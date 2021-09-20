@@ -504,7 +504,6 @@ input,
 .header {
     padding: var(--header-padding);
     position: relative;
-    z-index: 3;
     background-image: url(./assets/images/headphones_hero_1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
